@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "743acb1a9a91424f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d01ba984f06c1d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f293fb7ec966b8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronic Design Best Practices/Covered Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Covered Topics"
+            }
+          },
+          {
+            "id": "3787f6ba0656ace1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronic Design Best Practices/Guide to Derating Components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guide to Derating Components"
+            }
+          },
+          {
+            "id": "88df9931cb393a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Component Information/Inductors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inductors"
+            }
+          },
+          {
+            "id": "71df48935d703201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guide - Utilisation d'Obsidian avec le plugin Git pour GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guide - Utilisation d'Obsidian avec le plugin Git pour GitHub"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eb33a49a553d530",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdebdf43d2e59fa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0dcfcf5aa67af71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b2371485016f2ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "565ec5056a954760",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7ce7451685d893b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "048d1e876f4c75e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe6c1fb5312ff94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fcb8ff9bd070577",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Component Information/SMA Connectors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SMA Connectors"
+            }
+          },
+          {
+            "id": "6f9feb483b24837f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Component Information/SMA Connectors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SMA Connectors"
+            }
+          },
+          {
+            "id": "2e49e3d9c5ec4d90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91e257e85ffa0a01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Component Information/SMA Connectors.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SMA Connectors"
+            }
+          },
+          {
+            "id": "608260f96e45696f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "71df48935d703201",
+  "lastOpenFiles": [
+    "Component Information/Diodes.md",
+    "Component Information/eFuse.md",
+    "Component Information/H-Bridge.md",
+    "Component Information/Inductors.md",
+    "Component Information/Load Switches.md",
+    "Component Information/Mostfets.md",
+    "Component Information/PMIC.md",
+    "Component Information/Relay.md",
+    "Component Information/Resistors.md",
+    "Test nPM2100 Evaluation Kit.md",
+    "Electronic Design Best Practices/Guide to Derating Components.md",
+    "Electronic Design Best Practices/Covered Topics.md",
+    "Electronic Design Best Practices/Component Selection.md",
+    "PCB Layout.md",
+    "NFC.md",
+    "Documentation/Document Specifications.md",
+    "Documentation/Analyse de Risques.md",
+    "Component Information/Batteries.md",
+    "PCB Production.md",
+    "Bluetooth.md",
+    "Component Information/SMA Connectors.md",
+    "Component Information/Temperature Sensor Layout Notes.md",
+    "Product Development & Systems Engineering/Context Diagram.md",
+    "Impedance Matching.md",
+    "VNA.md",
+    "Product Development & Systems Engineering/External entities.md",
+    "Images/Pasted image 20250212113246.png",
+    "Images/Pasted image 20250212110323.png",
+    "Electronic Design Best Practices",
+    "Images/Pasted image 20240920111341.png",
+    "Images.zip",
+    "Images/Pasted image 20231114153000.png",
+    "Images/Pasted image 20231114153144.png",
+    "Images/Pasted image 20231114165408.png",
+    "Images/Pasted image 20230824105207.png",
+    "Images/Pasted image 20230824105024.png",
+    "Images/Pasted image 20231205144535.png",
+    "Images/Pasted image 20231116102256.png",
+    "Business",
+    "Component Information",
+    "P282 - 1008 REVA - Rapport des Test de Portée NFC.pdf",
+    "Images",
+    "Untitled.canvas",
+    "Product Development & Systems Engineering"
+  ]
+}

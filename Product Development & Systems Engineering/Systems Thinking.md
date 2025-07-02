@@ -1,0 +1,10 @@
+- Identifies patterns and trends as the system changes over time
+- Understands how elements within a system perform behaviors
+- Focuses on **entire** system, its mission(s), and the enabling elements (support infrastructure)
+- Internal system elements AND interfaces from external systems, elements, environment
+- Explores & understands cause-effects relationships among elements
+- Thinks forward several steps in a system's development lifecycle
+- Seeks to attain wide breadth of knowledge about the entire system, spanning multiple disciplines
+- Considers short & long term implications when resolving issues or making design decisions
+- Challenges assumptions (worse, best, most likely case scenarios)
+- Recognizes unintended consequences before they occur

@@ -1,0 +1,1 @@
+The objective or task, together with the purpose, which clearly indicates the action to be taken

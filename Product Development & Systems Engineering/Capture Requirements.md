@@ -1,0 +1,15 @@
+- [[Writing Requirements]] and see [[Requirement Types]]
+- Decompose StRS into SyRS
+- Explore of use cases [[Lifecycle Concepts]] and [[Operational Concept]]
+- [[Analysis of Alternatives]]
+- Decompose System & Subsystem Functions
+	- Child Functions are analyzed to see if parents Functions are feasible and can achieve Measure of Performance (MOP)
+- Do Failure Mode Analysis
+- Purpose: develop system requirements (SyRS)
+- Maintain top-down relationships
+- Cohesion/Modularity among functions
+- Continuously "visualize" HOW functions will be performed
+- **Always** record decision justifications
+- Forward allocation: create physical elements within the system model and allocate each function of functional interface to them
+	- Allocate each functional element to **ONLY ONE** physical element
+	- Identify candidate HW & SW alternatives
