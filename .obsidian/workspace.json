@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advice from Henry.md",
+                "file": "Guide - Utilisation d'Obsidian avec le plugin Git pour GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advice from Henry"
+              "title": "Guide - Utilisation d'Obsidian avec le plugin Git pour GitHub"
             }
           }
         ],
@@ -246,6 +246,7 @@
   },
   "active": "71df48935d703201",
   "lastOpenFiles": [
+    "Advice from Henry.md",
     "Bluetooth.md",
     "Guide - Utilisation d'Obsidian avec le plugin Git pour GitHub.md",
     "Component Information/Diodes.md",
@@ -271,7 +272,6 @@
     "Component Information/Temperature Sensor Layout Notes.md",
     "Product Development & Systems Engineering/Context Diagram.md",
     "Impedance Matching.md",
-    "VNA.md",
     "Images/Pasted image 20250212113246.png",
     "Images/Pasted image 20250212110323.png",
     "Electronic Design Best Practices",
