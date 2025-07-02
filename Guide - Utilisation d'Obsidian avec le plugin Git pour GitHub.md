@@ -1,7 +1,6 @@
 
 ---
 ## Introduction
-ca minterresse pas
 Le plugin **Git** pour Obsidian permet de synchroniser automatiquement vos notes avec un dépôt Git (comme GitHub). Cela ajoute une gestion de version à vos fichiers Markdown : chaque modification est historisée, sauvegardée à distance et peut être partagée avec d’autres utilisateurs. C’est un outil puissant pour travailler de manière structurée et collaborative dans Obsidian.
 
 Dans le cadre de **SONIA**, ce système nous permet de centraliser **la documentation, les fichiers de travail et les procédures** dans un espace commun. Chaque membre peut ainsi contribuer, retrouver l’historique des modifications et toujours accéder à la dernière version des documents, même depuis une autre machine.

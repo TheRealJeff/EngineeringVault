@@ -9,8 +9,6 @@
 À ce stade, vous devriez voir dans le logiciel **nRF Connect** le niveau de tension de votre pile.  
 Sur la carte de développement, vous devriez aussi voir des LEDs indiquant la tension, ainsi qu’une LED clignotante signalant le bon fonctionnement de la carte.
 
-![[Pasted image 20250613163306.png]]
-
 ---
 ### Phase de Tests
 
