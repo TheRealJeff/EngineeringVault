@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronic Design Best Practices/Guide to Derating Components.md",
+                "file": "Electronic Design Best Practices/Component Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide to Derating Components"
+              "title": "Component Selection"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test nPM2100 Evaluation Kit.md",
+                "file": "Electronic Design Best Practices/Guide to Derating Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test nPM2100 Evaluation Kit"
+              "title": "Guide to Derating Components"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,8 +258,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25a8e4943a577c9b",
+  "active": "3787f6ba0656ace1",
   "lastOpenFiles": [
+    "Component Information/Capacitors.md",
+    "Electronic Design Best Practices/Guide to Derating Components.md",
+    "Images/Pasted image 20250703111631.png",
+    "Component Information/Inductors.md",
+    "Electronic Design Best Practices/Covered Topics.md",
+    "Electronic Design Best Practices/Component Selection.md",
+    "Test nPM2100 Evaluation Kit.md",
     "Antenna.md",
     "Git Implementation.md",
     "Advice from Henry.md",
@@ -268,24 +275,17 @@
     "Component Information/Diodes.md",
     "Component Information/eFuse.md",
     "Component Information/H-Bridge.md",
-    "Component Information/Inductors.md",
     "Component Information/Load Switches.md",
     "Component Information/Mostfets.md",
     "Component Information/PMIC.md",
     "Component Information/Relay.md",
     "Component Information/Resistors.md",
-    "Test nPM2100 Evaluation Kit.md",
-    "Electronic Design Best Practices/Guide to Derating Components.md",
-    "Electronic Design Best Practices/Covered Topics.md",
-    "Electronic Design Best Practices/Component Selection.md",
     "PCB Layout.md",
     "NFC.md",
     "Documentation/Document Specifications.md",
     "Documentation/Analyse de Risques.md",
     "Component Information/Batteries.md",
     "PCB Production.md",
-    "Component Information/SMA Connectors.md",
-    "Component Information/Temperature Sensor Layout Notes.md",
     "Images/Pasted image 20250212113246.png",
     "Images/Pasted image 20250212110323.png",
     "Electronic Design Best Practices",
@@ -297,7 +297,6 @@
     "Images/Pasted image 20230824105207.png",
     "Images/Pasted image 20230824105024.png",
     "Images/Pasted image 20231205144535.png",
-    "Images/Pasted image 20231116102256.png",
     "Business",
     "Component Information",
     "P282 - 1008 REVA - Rapport des Test de Portée NFC.pdf",

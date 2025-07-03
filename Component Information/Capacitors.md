@@ -19,6 +19,10 @@ Check:
 
 Capacitance can be lower when the applied voltage reaches the breakdown voltage rating (check datasheet)
 
+![[Pasted image 20250703111631.png]]
+
+
+
 ## Aluminium Caps
 
 They have trash ESR and low working hours
