@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hole",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88df9931cb393a75",
+  "active": "b2371485016f2ed7",
   "lastOpenFiles": [
     "Component Information/Diodes.md",
     "Electronic Design Best Practices/Component Selection.md",
