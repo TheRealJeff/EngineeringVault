@@ -11,6 +11,7 @@ Cells:
 
 Pack:
 - UL-2054
+	- requires 2 levels of protection
 
 Product:
 - UL-2056

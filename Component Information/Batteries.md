@@ -2,6 +2,7 @@
 - Grepow
 - EEMB
 - PK cell
+- EVE
 
 ## General Notes
 - Remember that batteries have internal leak current that varies on temperature, voltage, age of batteries, chemistry

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronic Design Best Practices/Guide to Derating Components.md",
+                "file": "Certifications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide to Derating Components"
+              "title": "Certifications"
             }
           }
         ],
@@ -260,12 +260,13 @@
   },
   "active": "25a8e4943a577c9b",
   "lastOpenFiles": [
+    "Component Information/Batteries.md",
+    "Electronic Design Best Practices/Guide to Derating Components.md",
     "Henry Meeting Notes.md",
     "Component Information/Inductors.md",
     "Component Information/Diodes.md",
     "Electronic Design Best Practices/Component Selection.md",
     "Component Information/Capacitors.md",
-    "Electronic Design Best Practices/Guide to Derating Components.md",
     "Images/Pasted image 20250703111631.png",
     "Electronic Design Best Practices/Covered Topics.md",
     "Test nPM2100 Evaluation Kit.md",
@@ -285,7 +286,6 @@
     "NFC.md",
     "Documentation/Document Specifications.md",
     "Documentation/Analyse de Risques.md",
-    "Component Information/Batteries.md",
     "PCB Production.md",
     "Images/Pasted image 20250212113246.png",
     "Images/Pasted image 20250212110323.png",
