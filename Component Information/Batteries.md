@@ -25,7 +25,7 @@
 - Cell Balancing: Protection circuit should keep the different cell voltage relatively close to not create odd conditions where cells charge and discharge into themselves.
 ## Li-ion
 
-Secondary battery
+Type: Secondary battery
 
 Nominal Voltage: 3.7V
 Charging Voltage: 4.2V
@@ -41,13 +41,13 @@ They generally come in cylindrical formats: 18650/21700
 They can be customized with protection PCBs, NTC Thermistors and connectors
 ## LiPO
 
-Secondary battery
+Type: Secondary battery
 
 Similar to Li-ion, but in pouches.
 
 ## LiFePO4
 
-Secondary battery
+Type: Secondary battery
 
 Nominal Voltage: 3.2V
 Charging Voltage: 3.6V
@@ -60,7 +60,7 @@ Used in EV applications and battery backups
 
 ## LiSOCl2
 
-Primary battery
+Type: Primary battery
 
 Nominal Voltage: 3.6V
 Charging Voltage: 3.6V

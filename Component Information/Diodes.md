@@ -10,6 +10,8 @@ If the power rating of the zener diode is not adequate, use an "active zener dio
 
 ## Schottky
 
+This is the modern "normal" diode that is used
+
 Diode with low forward voltage drop, high current density, high leakage current
 
 Forward voltage drop (Vf): Voltage loss across diode during conduction or forward bias
@@ -20,5 +22,7 @@ Recovery time: Speed of transition from reverse to forward bias
 
 ## TVS
 Used for short overvoltage protection.
+
+Can be used as overvoltage protection for sustained loads if a current-limiting resistor is used, especially for digital I/O. 
 
 Reverse standoff voltage: voltage at which point it is suppressed **MOST IMPORTANT VALUE**

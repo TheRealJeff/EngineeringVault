@@ -1,4 +1,6 @@
-## Indicrect
+## Indirect
+- Digikey
+- Mouser
 - Future Electronics
 - Arrow Electronics
 - Diverse Electronics
@@ -13,4 +15,4 @@
 - Nordic
 - Tellit
 - Quectel
-- 
+- Taoglas

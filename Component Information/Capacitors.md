@@ -8,6 +8,9 @@ Check:
 - Time to reach 100% charge
 - ESR ratings (sometimes low)
 
+### How to use them
+![[Pasted image 20250919162908.png]]
+
 ## Tantalum Caps
 
 High capacity density for the size
