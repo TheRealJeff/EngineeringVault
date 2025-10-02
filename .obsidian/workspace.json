@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Diodes"
             }
+          },
+          {
+            "id": "ab7e852fafb701cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,8 +139,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -249,6 +261,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -258,7 +271,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25a8e4943a577c9b",
+  "active": "ab7e852fafb701cd",
   "lastOpenFiles": [
     "Component Information/eFuse.md",
     "Component Information/H-Bridge.md",
